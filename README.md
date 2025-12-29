@@ -4,22 +4,33 @@ A modern, responsive frontend landing page built with **HTML5**, **CSS3**, and *
 
 ## 🌐 Live Demo
 *https://task-2-iste.vercel.app/*
-[link]
+
+---
+
 
 ## ✨ Features
 * **Responsive Design**: Fully compatible with desktop, tablet.
 * **Modern UI**: Sleek, card-based layout inspired by fintech applications.
 * **Interactive Elements**: Includes a navigation bar, toggle switches, and hover effects.
 * **Bootstrap Grid**: Utilizes the Bootstrap grid system for precise alignment and layout.
+  
+---
 
 ## 🛠️ Tech Stack
 * **HTML5**: Semantic structure.
 * **CSS3**: Custom styling and layout refinements.
 * **Bootstrap 5**: Rapid styling and responsiveness framework.
 * **Google Fonts**: Integrated "Inter" or similar sans-serif typography for a premium feel.
+  
+---
 
 ## 📸 Preview
-![Earnwave Interface Screenshot](image_606b05.png)
+
+<img width="512" height="233" alt="unnamed" src="https://github.com/user-attachments/assets/2e70791e-0121-4c9b-8b13-d89ac6006c09" />
+
+![Earnwave Interface Screenshot]
+
+---
 
 ## 🚀 How to Run Locally
 1. **Clone the repository**:
@@ -39,4 +50,10 @@ A modern, responsive frontend landing page built with **HTML5**, **CSS3**, and *
 
 
 
-Developed by *Aditya Thakur*
+--- 
+## 👨‍💻 Developer
+
+Aditya Singh
+* **GitHub**: @thakur-aditya05 & @thakuraditya05
+* **Skills**: Frontend Development 
+---
